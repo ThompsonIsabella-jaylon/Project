@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<link href="style.css" type="text/css" rel="stylesheet">
+<div class="grid6">
+<body class="Sources">
+<div class="Source 1"> Source 1:https://urm.org/ </div>
+<div class="Source 2"> Source 2:https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness-report/ </div>
+<div class="Source 3"> Source 3:https://ourworldindata.org/homelessness </div>
+<div class="Source 4"> Source 4:http://www.cityofhawthorne.org/housing-and-homelessness-resources </div>
+<div class="Source 5"> Source 5: https://www.whitehouse.gov/wp-content/uploads/2019/09/The-State-of-Homelessness-in-America.pdf </div>
